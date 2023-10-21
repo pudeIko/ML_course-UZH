@@ -1,0 +1,6 @@
+.gitignore
+
+# ignore some generated stuff
+.ipynb_checkpoints/*
+.idea/*
+
